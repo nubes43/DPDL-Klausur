@@ -1,0 +1,4 @@
+Mai 03, 2022 6:39:50 PM Logger.PrivateLogger Warning
+WARNUNG: Warning: Der Server wird gehackt!!!
+Mai 03, 2022 6:39:50 PM Logger.PrivateLogger Severe
+SCHWERWIEGEND: Important: Der Server wurde aus Sicherheitsgrunden heruntergefahren.(SEVER_LOG)
